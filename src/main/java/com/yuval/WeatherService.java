@@ -43,7 +43,7 @@ public class WeatherService {
         }
         WeatherData data = new WeatherData(dataMap);
         System.out.println(data);
-         writeToFile(data); // not done yet
+        writeToFile(data);
     }
 
 
