@@ -13,7 +13,7 @@ To run the jar: `java -jar target\checkpoint_home_assignment_02_07_2025-1.0-SNAP
 # How i handled:
 
 #### Rate-limiting
-Added a random sleep before each weather api call, betwee 50 and 200 milliseconds.
+Added a random sleep before each weather api call, between 50 and 200 milliseconds.
 
 #### Concurrency
 Ran out of time
